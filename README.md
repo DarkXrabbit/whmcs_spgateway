@@ -13,7 +13,7 @@ WHMCS spgateway Gateway (Tested on WHMCS 5~7)
 v1.2
 
 # 相關付款模組 
-   # pay2go舊版
+   pay2go舊版
 https://github.com/hans00/whmcs_pay2go
 
 # 模組開發人員
