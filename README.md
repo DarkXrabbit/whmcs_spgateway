@@ -1,5 +1,5 @@
 # whmcs_spgateway
-WHMCS spgateway Gateway (Tested on WHMCS 6.3)
+WHMCS spgateway Gateway (Tested on WHMCS 5~7)
 
 # 功能
 - 超商代碼
